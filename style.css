@@ -88,6 +88,13 @@
 
 /*Fin estilos header*/
 
+/*Inicio animaciones header del home*/
+
+.animacionUno:hover {
+  transform: scale(1.2);
+}
+
+/*Fin animaciones header del home*/
 /*----------------------------------------------------------------*/
 
 /*Estilos SectionUno*/
@@ -127,6 +134,14 @@
   background-color: #f29985;
   text-decoration: none;
 }
+
+/*Inicio animaciones sectionUno del home*/
+
+.sectionUno__registrarse:hover {
+  transform: scale(1.2);
+}
+
+/*Fin animaciones sectionUno del home*/
 
 /*Fin estilos sectionUno*/
 
@@ -200,6 +215,14 @@
   text-align: center;
 }
 
+/*Inicio animaciones sectionTres del home*/
+
+.sectionTres__contenedor:hover {
+  transform: scale(1.2);
+}
+
+/*Fin animaciones sectionTres del home*/
+
 /*Fin estilos sectionTres*/
 
 /*----------------------------------------------------------*/
@@ -235,6 +258,15 @@
   bottom: 8%;
   font-family: cursive;
 }
+
+/*Inicio animaciones sectionCuatro del home*/
+
+.sectionCuatro__enviar:hover {
+  transform: scale(1.2);
+}
+
+/*Fin animaciones sectionCuatro del home*/
+
 /*Fin estilos sectionCuatro*/
 
 /*Inicio estilos del footer */
@@ -278,6 +310,14 @@
   left: 25px;
   font-family: "Roboto", sans-serif;
 }
+
+/*Inicio animaciones header del home*/
+
+.volverarriba:hover {
+  transform: scale(1.2);
+}
+
+/*Fin animaciones header del home*/
 
 /*Fin estilos home*/
 
